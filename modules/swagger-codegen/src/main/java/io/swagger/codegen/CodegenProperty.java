@@ -1,3 +1,8 @@
+/**
+* Modified this file
+* Added regular constructors to POJOs
+* For more info about the changes refer to  https://github.com/swagger-api/swagger-codegen/pull/6687
+*/
 package io.swagger.codegen;
 
 import java.util.ArrayList;

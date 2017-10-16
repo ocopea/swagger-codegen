@@ -1,3 +1,8 @@
+/**
+* Modified this file
+* update jaxrs-cxf samples
+* For more info about the changes refer to https://github.com/swagger-api/swagger-codegen/pull/6687
+*/
 package io.swagger.api;
 
 import java.io.File;
