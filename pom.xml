@@ -960,4 +960,11 @@
         <jmockit-version>1.25</jmockit-version>
         <reflections-version>0.9.10</reflections-version>
     </properties>
+<distributionManagement>
+    <repository>
+        <id>bintray-ocopea-central</id>
+        <name>ocopea-central</name>
+        <url>https://api.bintray.com/maven/ocopea/central/swagger-codegen/;publish=1</url>
+    </repository>
+</distributionManagement>
 </project>
